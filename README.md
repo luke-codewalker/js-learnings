@@ -4,9 +4,10 @@ Just a collection of random quirks, properties or features of JavaScript that I 
 
 ## Content
 
-- `function-args.js` Different ways to handle arguments in functions
-- `getters-and-setters.js` Defining Getters and Setters for object properties
-- `object-assing.js` Covering the behavior of the `Object.assign()` method
+- `function-args.js`: Different ways to handle arguments in functions
+- `getters-and-setters.js`: Defining Getters and Setters for object properties
+- `object-assing.js`: Covering the behavior of the `Object.assign()` method
+- `proxy.js`: What is the `Proxy` object and how to use it
 
 ## Notes
 
