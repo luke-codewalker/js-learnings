@@ -10,6 +10,7 @@ Just a collection of random quirks, properties or features of JavaScript that I 
 - `proxy.js`: What is the `Proxy` object and how to use it
 - `classes.js`: ES6 classes and their usage
 - `iterators.js`: a look at iterators
+- `generators.js`: a look at generators
 
 ## Notes
 
