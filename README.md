@@ -8,6 +8,7 @@ Just a collection of random quirks, properties or features of JavaScript that I 
 - `getters-and-setters.js`: Defining Getters and Setters for object properties
 - `object-assing.js`: Covering the behavior of the `Object.assign()` method
 - `proxy.js`: What is the `Proxy` object and how to use it
+- `classes.js`: ES6 classes and their usage
 
 ## Notes
 
