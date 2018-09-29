@@ -61,5 +61,3 @@ function* capitalize(array) {
   yield* array.map(string => string.toUpperCase());
 }
 console.log([...capitalize(["heLLo", "worLd"])]);
-
-// ... some more stuff on async generators...
