@@ -11,6 +11,7 @@ Just a collection of random quirks, properties or features of JavaScript that I 
 - `classes.js`: ES6 classes and their usage
 - `iterators.js`: a look at iterators
 - `generators.js`: a look at generators
+- `symbols.js`: what are Symbols and what makes them special
 
 ## Notes
 
